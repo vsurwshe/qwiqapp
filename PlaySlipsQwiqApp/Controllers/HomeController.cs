@@ -13,11 +13,11 @@ namespace PlaySlipsQwiqApp.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public RedirectResult About()
         {
             ViewBag.Message = "Your application description page.";
 
-            return View();
+            return Redirect("/pages/view.aspx");
         }
 
         public ActionResult Contact()
