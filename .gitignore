@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PlaySlipsQwiqApp/App_Data/Database1.mdf
+/PlaySlipsQwiqApp/App_Data/Database1_log.ldf
+
